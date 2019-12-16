@@ -9,6 +9,8 @@ https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr/overview
 
 실전에 부딪혀 구글링을 통하여 습득하는 것이 더 즐거운 공부를 할 수 있을 것이라 판단하던 도중에 마침 Kaggle Korea에서 이미지 분류 대회가 열렸습니다.
 
+처음 딥러닝 세계로 입문하시는 분들은 이 대회를 통해 공부하는 것도 상당히 도움이 많이 될 것이라고 생각합니다! 
+
 ![rank](./image/rank.png)
 총 156팀 중 53등을 하였습니다.
 
